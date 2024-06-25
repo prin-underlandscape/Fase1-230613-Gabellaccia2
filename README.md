@@ -1,4 +1,4 @@
-# Fase1-230613-Gabellaccia2 ([mappa](https://umap.openstreetmap.fr/it/map/fase1-230613-gabellaccia2_1085408?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&editMode=disabled&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=none&captionBar=false&captionMenus=true))
+# Fase1-230613-Gabellaccia2 ([mappa](https://umap.openstreetmap.fr/it/map/fase1-230613-gabellaccia2_1085408))
 Ricognizione per localizzarne la Tecchia della Gabellaccia (2^ tentativo)
 ## Percorso: Tecchia della Gabellaccia (2^ tentativo)
 **Sopralluogo pe individuare la Tecchia della Gabellaccia lungo il sentiero CAI 185 che collega Passo della Gabellaccia a Castelpoggio (2^ tentativo). Si prosegue fino al bivio per poi rimanere sul lato versante**
