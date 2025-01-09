@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<gpx version="1.1" creator="PyGPX">
+  <wpt lat="44.123152" lon="10.092091">
+    <ele>500</ele>
+    <name>Interno grotta</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="44.123234" lon="10.092221">
+    <ele>500</ele>
+    <name>Grotta</name>
+    <desc></desc>
+  </wpt>
+  <trk>
+    <name>Tecchia della Gabellaccia (2^ tentativo)</name>
+    <desc>Sopralluogo pe individuare la Tecchia della Gabellaccia lungo il sentiero CAI 185 che collega Passo della Gabellaccia a Castelpoggio (2^ tentativo). Si prosegue fino al bivio per poi rimanere sul lato versante</desc>
+    <trkseg>
+      <trkpt lat="[10.092297, 44.123258, 766.9944136869162, 1686662893]" lon="[10.092297, 44.123258, 766.9944136869162, 1686662884]">
+        <ele>[10.092297, 44.123258, 766.9944136869162, 1686662894]</ele>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>
